@@ -1,10 +1,4 @@
 # CloudPilot
-
-
-https://github.com/user-attachments/assets/c7e8e6d6-f118-4e95-ba79-62dfff485361
-
-
-
 https://github.com/user-attachments/assets/9e427835-d39a-4d38-83f8-8f3d74feff34
 
 
@@ -60,4 +54,7 @@ AWS, GCP, Azure, Oracle Cloud, IBM Cloud, Alibaba Cloud, and Databricks each hav
 
 ### 3. Approval workflows
 
-Admins define workflows as ordered sequences of steps. A workflow can be as simple as:
+Admins define workflows as ordered sequences of steps. A workflow can be as simple as on finger tips.
+
+
+https://github.com/user-attachments/assets/c7e8e6d6-f118-4e95-ba79-62dfff485361
